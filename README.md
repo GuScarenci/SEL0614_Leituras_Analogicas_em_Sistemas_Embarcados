@@ -1,5 +1,5 @@
-# SEL0614 - Leituras Analogicas em Sistemas Embarcados
-## Projeto 3 - Leituras Analógicas em Sistemas Embarcados da disciplina SEL0614 - Aplicação de Microprocessadores (2023)
+# Leituras Analogicas em Sistemas Embarcados
+## Projeto 3 da disciplina SEL0614 - Aplicação de Microprocessadores (2023)
 
 ### Alunos:
 - Fernando Cristovão
