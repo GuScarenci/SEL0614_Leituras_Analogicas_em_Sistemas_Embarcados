@@ -2,7 +2,7 @@
 Projeto 3 da disciplina SEL0614 - Aplicação de Microprocessadores (2023.2)
 
 # Alunos:
-- Fernando Clarindo Cristóvão- 12547573 - fercristovao@usp.br
+- Fernando Clarindo Cristóvão - 12547573 - fercristovao@usp.br
 - Fernando Lucas Vieira Souza - 12703069 - felucas.souza@usp.br
 - Gustavo Moura Scarenci de Carvalho Ferreira - 12547792 - gustavomourascarenci@usp.br
 - Matheus Henrique Dias Cirillo - 12547750 - matheuscirillo@usp.br
